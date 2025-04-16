@@ -17,9 +17,5 @@ Jiahe Wu (武嘉和) received her B.E. degree from Hefei University of Technolog
 
 {% include_relative _includes/publications.md %}
 
-## Honors
-
-- **[2023]** Excellent M.S. Thesis of Tianjin University
-
 
 {% include_relative _includes/services.md %}
