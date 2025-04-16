@@ -10,7 +10,7 @@ Jiahe Wu (武嘉和) received her B.E. degree from Hefei University of Technolog
 
 - **Multi-modal Learning**
 - **Video Understanding** 
-- **visual Grounding** 
+- **Visual Grounding** 
   
 ## News
 - **[2025-04]** Coming later!
