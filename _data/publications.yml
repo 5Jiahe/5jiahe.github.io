@@ -2,8 +2,8 @@ main:
 
   - title: "Cyclic Pseudo-Label Generation and Refinement for Weakly Supervised Referring Expression Grounding"
     authors: <strong>Jiahe Wu</strong>
-    # conference_short: NeurIPS
-    # conference: Neural Information Processing Systems, 2024
+    conference_short: TCSVT
+    conference: Coming later
     # pdf: https://openreview.net/pdf?id=tJGX7tpGO8
     # code:  https://github.com/5Jiahe/CPGR
     image: ./assets/img/CPGR.jpg
