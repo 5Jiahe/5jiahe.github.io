@@ -17,5 +17,3 @@ Jiahe Wu (武嘉和) received her B.E. degree from Hefei University of Technolog
 
 {% include_relative _includes/publications.md %}
 
-
-{% include_relative _includes/services.md %}
